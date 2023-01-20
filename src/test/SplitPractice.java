@@ -1,6 +1,6 @@
 package test;
 
-public class Splitpractice {
+public class SplitPractice {
     public static void main(String[] args) {
 
         String output2 = letterCapitalize("java  is good");
