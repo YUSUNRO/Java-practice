@@ -20,5 +20,6 @@ public class InsertDash {
             result = result + str.charAt(i);
         }
         return result;
+
         }
     }
